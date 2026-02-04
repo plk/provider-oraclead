@@ -6,8 +6,8 @@ import (
 
 	ujconfig "github.com/crossplane/upjet/v2/pkg/config"
 
-   oraadCluster "github.com/plk/provider-azurerm/config/cluster/oracle_autonomous_database"
-   oraadNamespaced "github.com/plk/provider-azurerm/config/namespaced/oracle_autonomous_database"
+   oraadCluster "github.com/plk/provider-oraclead/config/cluster/oracle_autonomous_database"
+   oraadNamespaced "github.com/plk/provider-oraclead/config/namespaced/oracle_autonomous_database"
 )
 
 const (
